@@ -123,12 +123,12 @@ Steps
 bash
 
 ```
-git clone https://github.com/yourusername/african-countries-app.git
+git clone https://github.com/olawills/african_interview_test
 ```
 2. Install dependencies
 bash
 ```
-git clone https://github.com/yourusername/african-countries-app.git
+git clone https://github.com/olawills/african_interview_test
 ```
 
 3. Run the app
